@@ -6,10 +6,12 @@ import android.view.View;
 
 public class SearchActivity extends AppCompatActivity {
 
+    DatabaseHelper db;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_search);
+        db = new DatabaseHelper(this);
     }
 
     public void searchBoxClick(View search_box_text){
