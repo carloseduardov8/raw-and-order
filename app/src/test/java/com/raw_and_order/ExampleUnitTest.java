@@ -1,4 +1,4 @@
-package com.example.raw_and_order;
+package com.raw_and_order;
 
 import org.junit.Test;
 

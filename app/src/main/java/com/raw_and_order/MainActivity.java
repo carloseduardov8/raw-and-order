@@ -1,11 +1,11 @@
-package com.example.raw_and_order;
+package com.raw_and_order;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
-import android.view.accessibility.AccessibilityManager;
-import android.widget.Toast;
+
+import com.raw_and_order.*;
 
 public class MainActivity extends AppCompatActivity {
 
