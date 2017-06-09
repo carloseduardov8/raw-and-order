@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "861144036036",
+    "firebase_url": "https://rawandorder-eb361.firebaseio.com",
+    "project_id": "rawandorder-eb361",
+    "storage_bucket": "rawandorder-eb361.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861144036036:android:ca033d98bd5cad36",
+        "android_client_info": {
+          "package_name": "com.raw_and_order"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861144036036-ccotr5040e5qsb80864fcdfk4kf35mg6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsZ6_xtHJxjfkWGu4khckYZjWeD2duNNk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
