@@ -5,8 +5,6 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 
-import com.raw_and_order.*;
-
 public class MainActivity extends AppCompatActivity {
 
     @Override
@@ -15,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-    // Called when the user clicks the search button
+    // Called when the user clicks the search button //
     public void searchButtonClick(View view) {
         Intent goToSearch = new Intent(this, SearchActivity.class);
         startActivity(goToSearch);
