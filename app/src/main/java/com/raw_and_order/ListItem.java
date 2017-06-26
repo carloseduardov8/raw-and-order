@@ -8,7 +8,7 @@ public class ListItem {
     public String name;
     public int image;
 
-    public ListItem(String initName, int initImage){
+    public ListItem(String initName, int initImage) {
         name = initName;
         image = initImage;
     }
