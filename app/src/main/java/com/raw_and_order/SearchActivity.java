@@ -20,11 +20,11 @@ import com.raw_and_order.R;
 import java.util.ArrayList;
 
 public class SearchActivity extends AppCompatActivity {
-    ArrayList<ListItem> restaurantArray = new ArrayList<>();
-    EditText searchbox;
-    ListItemAdapter searchAdapter;
+    public ArrayList<ListItem> restaurantArray = new ArrayList<>();
+    public EditText searchbox;
+    public ListItemAdapter searchAdapter;
     //ListItemAdapter adapter;
-    ListView searchlistview;
+    public ListView searchlistview;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -65,9 +65,5 @@ public class SearchActivity extends AppCompatActivity {
         searchAdapter = new ListItemAdapter(this, R.layout.list_view, resultArray);
         searchlistview.setAdapter(searchAdapter);
         //(to-do) Searches through the list of restaurants for a name matching 'search_box_text'
-    }
-
-    public void itemClick() {
-
     }
 }
