@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\Android Studio Projects\\raw-and-order-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\qr_code.png",
+        "source": "E:\\Android Studio Projects\\raw-and-order-master\\app\\src\\main\\res\\mipmap-xhdpi\\qr_code.png"
+    },
+    {
+        "merged": "E:\\Android Studio Projects\\raw-and-order-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\config_gear.png",
+        "source": "E:\\Android Studio Projects\\raw-and-order-master\\app\\src\\main\\res\\mipmap-xhdpi\\config_gear.png"
+    },
+    {
+        "merged": "E:\\Android Studio Projects\\raw-and-order-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "E:\\Android Studio Projects\\raw-and-order-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android Studio Projects\\raw-and-order-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher_round.png",
+        "source": "E:\\Android Studio Projects\\raw-and-order-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    }
+]
