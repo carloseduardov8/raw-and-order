@@ -24,6 +24,7 @@
             android:layout_weight="0.475"
             android:layout_height="match_parent"
             android:layout_width="0dp"
+            android:onClick="qrButtonClick"
             android:contentDescription="@string/qr_button_text"/>
 
 
@@ -64,6 +65,7 @@
             android:layout_weight="0.475"
             android:layout_width="0dp"
             android:layout_height="match_parent"
+            android:onClick="configButtonClick"
             android:contentDescription="@string/config_button_text" />
 
         <Space
@@ -78,6 +80,7 @@
             android:layout_weight="0.475"
             android:layout_width="0dp"
             android:layout_height="match_parent"
+            android:onClick="profileButtonClick"
             android:contentDescription="@string/profile_button_text" />
 
     </LinearLayout>

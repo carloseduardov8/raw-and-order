@@ -18,4 +18,19 @@ public class MainActivity extends AppCompatActivity {
         Intent goToSearch = new Intent(this, SearchActivity.class);
         startActivity(goToSearch);
     }
+
+    public void profileButtonClick(View view) {
+        Intent goToProfile = new Intent(this, LoginActivity.class);
+        startActivity(goToProfile);
+    }
+
+    public void qrButtonClick(View view) {
+        Intent goToQR = new Intent(this, QRActivity.class);
+        startActivity(goToQR);
+    }
+
+    public void configButtonClick(View view) {
+        Intent goToConfig = new Intent(this, SettingsActivity.class);
+        startActivity(goToConfig);
+    }
 }
